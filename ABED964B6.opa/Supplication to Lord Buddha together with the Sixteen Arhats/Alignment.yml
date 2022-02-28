@@ -1,0 +1,19 @@
+segment_sources:
+  PF799817E:
+    type: origin_type
+    relation: translation
+    language: en
+  P94558C35:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  ed4765e400024ec59c3178616654fb1f:
+    PF799817E: a2729d616f394e2881c06723794ddec0
+    P94558C35: 45eb119d269d4635908b4adf829d232f
+  9f3c4f31e93e47f8820948dfea9e08b2:
+    PF799817E: 8f8651cff8cf4dd9a75f1bcb5f5f8b89
+    P94558C35: 39870ee4da744c46b85be6649cb594cc
+  6af3d167c9d745cab7180223998c9529:
+    PF799817E: 3e4fe2a5243f487580575373e9b6165f
+    P94558C35: 206f033bccc94d15a85cd135452595ea
